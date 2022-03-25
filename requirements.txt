@@ -3,5 +3,5 @@ Flask==0.12.4
 
 Numpy==1.14.4
 Scipy==1.1.0
-nltk==3.3
+nltk==3.6.6
 flask_cors==3.0.6
